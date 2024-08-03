@@ -1,12 +1,3 @@
-<style>
-    h1 {
-        color: deepskyblue;
-    }
-
-    h3 {
-        color: red;
-    }
-</style>
 <h1>
     Singly Linked List Implemented in C
 </h1>
